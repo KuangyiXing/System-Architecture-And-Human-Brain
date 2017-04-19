@@ -32,4 +32,4 @@
 * dendrites :  detect more complex condition within different sources
 * branches : detect multiple elements simultaneously : condition
 * synapses : detect one element information
-* chemical cascades : 
+* chemical cascades :
